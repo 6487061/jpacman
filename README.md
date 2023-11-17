@@ -1,7 +1,9 @@
 # JPacman
 
 [![Build Status](https://travis-ci.com/SERG-Delft/jpacman.svg?branch=master)](https://travis-ci.com/SERG-Delft/jpacman)
-
+![Build Status](https://github.com/6487061/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
+![Coverage](.github/badges/jacoco.svg)
+![Branches](.github/badges/branches.svg)
 ## About
 
 Pacman-like game used for teaching software testing.
@@ -37,3 +39,4 @@ Main contributors:
     1. For tests only run `./gradlew test`
     2. For static analysis tools only run `./gradlew staticAnalysis`
 	 
+
